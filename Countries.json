@@ -100,7 +100,7 @@
     "capital": "Buenos Aires",
     "currency": "ARS",
     "languages": [
-      "es",
+      "es"
       ]
   },
   "AS": {
@@ -111,7 +111,7 @@
     "capital": "Pago Pago",
     "currency": "USD",
     "languages": [
-      "en",
+      "en"
       ]
   },
   "AT": {
@@ -144,7 +144,7 @@
     "capital": "Oranjestad",
     "currency": "AWG",
     "languages": [
-      "nl",
+      "nl"
       ]
   },
   "AX": {
@@ -220,7 +220,7 @@
     "capital": "Ouagadougou",
     "currency": "XOF",
     "languages": [
-      "fr",
+      "fr"
       ]
   },
   "BG": {
@@ -251,7 +251,7 @@
     "capital": "Bujumbura",
     "currency": "BIF",
     "languages": [
-      "fr",
+      "fr"
       ]
   },
   "BJ": {
@@ -305,7 +305,7 @@
     "capital": "Sucre",
     "currency": "BOB,BOV",
     "languages": [
-      "es",
+      "es"
       ]
   },
   "BQ": {
@@ -370,7 +370,7 @@
     "capital": "Gaborone",
     "currency": "BWP",
     "languages": [
-      "en",
+      "en"
       ]
   },
   "BY": {
@@ -428,7 +428,7 @@
     "capital": "Kinshasa",
     "currency": "CDF",
     "languages": [
-      "fr",
+      "fr"
       ]
   },
   "CF": {
@@ -439,7 +439,7 @@
     "capital": "Bangui",
     "currency": "XAF",
     "languages": [
-      "fr",
+      "fr"
       ]
   },
   "CG": {
@@ -450,7 +450,7 @@
     "capital": "Brazzaville",
     "currency": "XAF",
     "languages": [
-      "fr",
+      "fr"
       ]
   },
   "CH": {
@@ -462,7 +462,7 @@
     "currency": "CHE,CHF,CHW",
     "languages": [
       "de",
-      "fr",
+      "fr"
       ]
   },
   "CI": {
@@ -596,7 +596,7 @@
     "capital": "Nicosia",
     "currency": "EUR",
     "languages": [
-      "el",
+      "el"
       ]
   },
   "CZ": {
@@ -628,7 +628,7 @@
     "capital": "Djibouti",
     "currency": "DJF",
     "languages": [
-      "fr",
+      "fr"
       ]
   },
   "DK": {
@@ -761,7 +761,7 @@
     "capital": "Helsinki",
     "currency": "EUR",
     "languages": [
-      "fi",
+      "fi"
       ]
   },
   "FJ": {
@@ -940,7 +940,7 @@
     "capital": "Conakry",
     "currency": "GNF",
     "languages": [
-      "fr",
+      "fr"
       ]
   },
   "GP": {
@@ -1086,7 +1086,7 @@
     "capital": "Port-au-Prince",
     "currency": "HTG,USD",
     "languages": [
-      "fr",
+      "fr"
       ]
   },
   "HU": {
@@ -1128,7 +1128,7 @@
     "capital": "Jerusalem",
     "currency": "ILS",
     "languages": [
-      "he",
+      "he"
       ]
   },
   "IM": {
@@ -1261,7 +1261,7 @@
     "capital": "Nairobi",
     "currency": "KES",
     "languages": [
-      "en",
+      "en"
       ]
   },
   "KG": {
@@ -1449,7 +1449,7 @@
     "capital": "Maseru",
     "currency": "LSL,ZAR",
     "languages": [
-      "en",
+      "en"
       ]
   },
   "LT": {
@@ -2051,7 +2051,7 @@
     "capital": "Asunción",
     "currency": "PYG",
     "languages": [
-      "es",
+      "es"
       ]
   },
   "QA": {
@@ -2269,7 +2269,7 @@
     "capital": "Mogadishu",
     "currency": "SOS",
     "languages": [
-      "so",
+      "so"
       ]
   },
   "SR": {
@@ -2346,7 +2346,7 @@
     "capital": "Lobamba",
     "currency": "SZL",
     "languages": [
-      "en",
+      "en"
       ]
   },
   "TC": {
@@ -2368,7 +2368,7 @@
     "capital": "N'Djamena",
     "currency": "XAF",
     "languages": [
-      "fr",
+      "fr"
       ]
   },
   "TF": {
@@ -2543,7 +2543,7 @@
     "capital": "Kampala",
     "currency": "UGX",
     "languages": [
-      "en",
+      "en"
       ]
   },
   "UM": {
@@ -2730,7 +2730,7 @@
     "currency": "ZAR",
     "languages": [
       "af",
-      "en",
+      "en"
       ]
   },
   "ZM": {
@@ -2752,7 +2752,7 @@
     "capital": "Harare",
     "currency": "ZWL",
     "languages": [
-      "en",
+      "en"
       ]
   }
 }
