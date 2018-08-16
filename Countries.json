@@ -85,7 +85,7 @@
   },
   "AQ": {
     "name": "Antarctica",
-    "enabled": true,
+    "enabled": false,
     "native": "Antarctica",
     "continent": "AN",
     "capital": "",
@@ -127,7 +127,7 @@
   },
   "AU": {
     "name": "Australia",
-    "enabled": true,
+    "enabled": false,
     "native": "Australia",
     "continent": "OC",
     "capital": "Canberra",
@@ -190,7 +190,7 @@
   },
   "BD": {
     "name": "Bangladesh",
-    "enabled": false,
+    "enabled": true,
     "native": "Bangladesh",
     "continent": "AS",
     "capital": "Dhaka",
@@ -201,7 +201,7 @@
   },
   "BE": {
     "name": "Belgium",
-    "enabled": true,
+    "enabled": false,
     "native": "België",
     "continent": "EU",
     "capital": "Brussels",
@@ -321,7 +321,7 @@
   },
   "BR": {
     "name": "Brazil",
-    "enabled": false,
+    "enabled": true,
     "native": "Brasil",
     "continent": "SA",
     "capital": "Brasília",
@@ -422,7 +422,7 @@
   },
   "CD": {
     "name": "Democratic Republic of the Congo",
-    "enabled": false,
+    "enabled": true,
     "native": "République démocratique du Congo",
     "continent": "AF",
     "capital": "Kinshasa",
@@ -455,7 +455,7 @@
   },
   "CH": {
     "name": "Switzerland",
-    "enabled": true,
+    "enabled": false,
     "native": "Schweiz",
     "continent": "EU",
     "capital": "Bern",
@@ -489,7 +489,7 @@
   },
   "CL": {
     "name": "Chile",
-    "enabled": true,
+    "enabled": false,
     "native": "Chile",
     "continent": "SA",
     "capital": "Santiago",
@@ -500,7 +500,7 @@
   },
   "CM": {
     "name": "Cameroon",
-    "enabled": true,
+    "enabled": false,
     "native": "Cameroon",
     "continent": "AF",
     "capital": "Yaoundé",
@@ -512,7 +512,7 @@
   },
   "CN": {
     "name": "China",
-    "enabled": false,
+    "enabled": true,
     "native": "中国",
     "continent": "AS",
     "capital": "Beijing",
@@ -523,7 +523,7 @@
   },
   "CO": {
     "name": "Colombia",
-    "enabled": true,
+    "enabled": false,
     "native": "Colombia",
     "continent": "SA",
     "capital": "Bogotá",
@@ -534,7 +534,7 @@
   },
   "CR": {
     "name": "Costa Rica",
-    "enabled": true,
+    "enabled": false,
     "native": "Costa Rica",
     "continent": "NA",
     "capital": "San José",
@@ -545,7 +545,7 @@
   },
   "CU": {
     "name": "Cuba",
-    "enabled": true,
+    "enabled": false,
     "native": "Cuba",
     "continent": "NA",
     "capital": "Havana",
@@ -633,7 +633,7 @@
   },
   "DK": {
     "name": "Denmark",
-    "enabled": true,
+    "enabled": false,
     "native": "Danmark",
     "continent": "EU",
     "capital": "Copenhagen",
@@ -655,7 +655,7 @@
   },
   "DO": {
     "name": "Dominican Republic",
-    "enabled": true,
+    "enabled": false,
     "native": "República Dominicana",
     "continent": "NA",
     "capital": "Santo Domingo",
@@ -676,7 +676,7 @@
   },
   "EC": {
     "name": "Ecuador",
-    "enabled": true,
+    "enabled": false,
     "native": "Ecuador",
     "continent": "SA",
     "capital": "Quito",
@@ -744,7 +744,7 @@
   },
   "ET": {
     "name": "Ethiopia",
-    "enabled": true,
+    "enabled": false,
     "native": "ኢትዮጵያ",
     "continent": "AF",
     "capital": "Addis Ababa",
@@ -755,7 +755,7 @@
   },
   "FI": {
     "name": "Finland",
-    "enabled": true,
+    "enabled": false,
     "native": "Suomi",
     "continent": "EU",
     "capital": "Helsinki",
@@ -813,7 +813,7 @@
   },
   "FR": {
     "name": "France",
-    "enabled": false,
+    "enabled": true,
     "native": "France",
     "continent": "EU",
     "capital": "Paris",
@@ -891,7 +891,7 @@
   },
   "GH": {
     "name": "Ghana",
-    "enabled": true,
+    "enabled": false,
     "native": "Ghana",
     "continent": "AF",
     "capital": "Accra",
@@ -968,7 +968,7 @@
   },
   "GR": {
     "name": "Greece",
-    "enabled": true,
+    "enabled": false,
     "native": "Ελλάδα",
     "continent": "EU",
     "capital": "Athens",
@@ -1101,7 +1101,7 @@
   },
   "ID": {
     "name": "Indonesia",
-    "enabled": false,
+    "enabled": true,
     "native": "Indonesia",
     "continent": "AS",
     "capital": "Jakarta",
@@ -1111,7 +1111,7 @@
   },
   "IE": {
     "name": "Ireland",
-    "enabled": true,
+    "enabled": false,
     "native": "Éire",
     "continent": "EU",
     "capital": "Dublin",
@@ -1145,7 +1145,7 @@
   },
   "IN": {
     "name": "India",
-    "enabled": false,
+    "enabled": true,
     "native": "भारत",
     "continent": "AS",
     "capital": "New Delhi",
@@ -1179,7 +1179,7 @@
   },
   "IR": {
     "name": "Iran",
-    "enabled": false,
+    "enabled": true,
     "native": "ایران",
     "continent": "AS",
     "capital": "Tehran",
@@ -1190,7 +1190,7 @@
   },
   "IS": {
     "name": "Iceland",
-    "enabled": true,
+    "enabled": false,
     "native": "Ísland",
     "continent": "EU",
     "capital": "Reykjavik",
@@ -1223,7 +1223,7 @@
   },
   "JM": {
     "name": "Jamaica",
-    "enabled": true,
+    "enabled": false,
     "native": "Jamaica",
     "continent": "NA",
     "capital": "Kingston",
@@ -1255,7 +1255,7 @@
   },
   "KE": {
     "name": "Kenya",
-    "enabled": true,
+    "enabled": false,
     "native": "Kenya",
     "continent": "AF",
     "capital": "Nairobi",
@@ -1432,7 +1432,7 @@
   },
   "LR": {
     "name": "Liberia",
-    "enabled": true,
+    "enabled": false,
     "native": "Liberia",
     "continent": "AF",
     "capital": "Monrovia",
@@ -1465,7 +1465,7 @@
   },
   "LU": {
     "name": "Luxembourg",
-    "enabled": true,
+    "enabled": false,
     "native": "Luxembourg",
     "continent": "EU",
     "capital": "Luxembourg",
@@ -1489,7 +1489,7 @@
   },
   "LY": {
     "name": "Libya",
-    "enabled": true,
+    "enabled": false,
     "native": "‏ليبيا",
     "continent": "AF",
     "capital": "Tripoli",
@@ -1554,7 +1554,7 @@
   },
   "MG": {
     "name": "Madagascar",
-    "enabled": true,
+    "enabled": false,
     "native": "Madagasikara",
     "continent": "AF",
     "capital": "Antananarivo",
@@ -1724,7 +1724,7 @@
   },
   "MX": {
     "name": "Mexico",
-    "enabled": false,
+    "enabled": true,
     "native": "México",
     "continent": "NA",
     "capital": "Mexico City",
@@ -1834,7 +1834,7 @@
   },
   "NO": {
     "name": "Norway",
-    "enabled": true,
+    "enabled": false,
     "native": "Norge",
     "continent": "EU",
     "capital": "Oslo",
@@ -1845,7 +1845,7 @@
   },
   "NP": {
     "name": "Nepal",
-    "enabled": true,
+    "enabled": false,
     "native": "नपल",
     "continent": "AS",
     "capital": "Kathmandu",
@@ -1879,7 +1879,7 @@
   },
   "NZ": {
     "name": "New Zealand",
-    "enabled": true,
+    "enabled": false,
     "native": "New Zealand",
     "continent": "OC",
     "capital": "Wellington",
@@ -1901,7 +1901,7 @@
   },
   "PA": {
     "name": "Panama",
-    "enabled": true,
+    "enabled": false,
     "native": "Panamá",
     "continent": "NA",
     "capital": "Panama City",
@@ -1945,7 +1945,7 @@
   },
   "PH": {
     "name": "Philippines",
-    "enabled": false,
+    "enabled": true,
     "native": "Pilipinas",
     "continent": "AS",
     "capital": "Manila",
@@ -1956,7 +1956,7 @@
   },
   "PK": {
     "name": "Pakistan",
-    "enabled": false,
+    "enabled": true,
     "native": "Pakistan",
     "continent": "AS",
     "capital": "Islamabad",
@@ -2001,7 +2001,7 @@
   },
   "PR": {
     "name": "Puerto Rico",
-    "enabled": true,
+    "enabled": false,
     "native": "Puerto Rico",
     "continent": "NA",
     "capital": "San Juan",
@@ -2098,7 +2098,7 @@
   },
   "RU": {
     "name": "Russia",
-    "enabled": false,
+    "enabled": true,
     "native": "Россия",
     "continent": "EU",
     "capital": "Moscow",
@@ -2176,7 +2176,7 @@
   },
   "SG": {
     "name": "Singapore",
-    "enabled": true,
+    "enabled": false,
     "native": "Singapore",
     "continent": "AS",
     "capital": "Singapore",
@@ -2429,7 +2429,7 @@
   },
   "TL": {
     "name": "East Timor",
-    "enabled": true,
+    "enabled": false,
     "native": "Timor-Leste",
     "continent": "OC",
     "capital": "Dili",
@@ -2483,7 +2483,7 @@
   },
   "TT": {
     "name": "Trinidad and Tobago",
-    "enabled": true,
+    "enabled": false,
     "native": "Trinidad and Tobago",
     "continent": "NA",
     "capital": "Port of Spain",
@@ -2559,7 +2559,7 @@
   },
   "US": {
     "name": "United States",
-    "enabled": false,
+    "enabled": true,
     "native": "United States",
     "continent": "NA",
     "capital": "Washington D.C.",
@@ -2570,7 +2570,7 @@
   },
   "UY": {
     "name": "Uruguay",
-    "enabled": true,
+    "enabled": false,
     "native": "Uruguay",
     "continent": "SA",
     "capital": "Montevideo",
@@ -2614,7 +2614,7 @@
   },
   "VE": {
     "name": "Venezuela",
-    "enabled": true,
+    "enabled": false,
     "native": "Venezuela",
     "continent": "SA",
     "capital": "Caracas",
@@ -2647,7 +2647,7 @@
   },
   "VN": {
     "name": "Vietnam",
-    "enabled": true,
+    "enabled": false,
     "native": "Việt Nam",
     "continent": "AS",
     "capital": "Hanoi",
@@ -2658,7 +2658,7 @@
   },
   "VU": {
     "name": "Vanuatu",
-    "enabled": true,
+    "enabled": false,
     "native": "Vanuatu",
     "continent": "OC",
     "capital": "Port Vila",
@@ -2723,7 +2723,7 @@
   },
   "ZA": {
     "name": "South Africa",
-    "enabled": true,
+    "enabled": false,
     "native": "South Africa",
     "continent": "AF",
     "capital": "Pretoria",
@@ -2746,7 +2746,7 @@
   },
   "ZW": {
     "name": "Zimbabwe",
-    "enabled": true,
+    "enabled": false,
     "native": "Zimbabwe",
     "continent": "AF",
     "capital": "Harare",
